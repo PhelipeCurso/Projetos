@@ -56,7 +56,7 @@ static void PreStart(int time){
           }
         
         Console.Clear();
-        Console.WriteLine("StopWatch finalizando... Retornando para o Menu");
+        Console.WriteLine("StopWatch finalizando... Retornando para o Menu!");
         Thread.Sleep(2500);
         Menu();
 
